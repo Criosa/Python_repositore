@@ -1,4 +1,4 @@
 # thefuture
-##Editando el documento
+## Visión
 
 Editando el repositorio del futuro.
